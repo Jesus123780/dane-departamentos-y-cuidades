@@ -29,7 +29,7 @@ Este script utiliza Node.js y las librerías `xlsx` y `fs` para:
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/nombre_del_repositorio.git
+   git clone https://github.com/Jesus123780/dane-departamentos-y-cuidades.git
    cd nombre_del_repositorio
    ```
 
